@@ -24,8 +24,8 @@ jQuery(document).ready(function() {
     <div class="cl">&nbsp;</div>
     <!-- Logo -->
     <div id="logo-cnt">
-      <h1 id="logo">Personal Site Name</h1>
-      <h2 id="slogan">yourname personal portfolio</h2>
+      <h1 id="logo">Consult Gao</h1>
+      <h2 id="slogan">My Demos</h2>
     </div>
     <!-- End Logo -->
     <div id="status">
